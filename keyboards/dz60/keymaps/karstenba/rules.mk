@@ -1,0 +1,3 @@
+LAYOUTS = karstenba
+CONSOLE_ENABLE = yes
+RGBLIGHT_ENABLE = no

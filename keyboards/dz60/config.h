@@ -13,6 +13,9 @@
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 15
 
+/* tap vs hold delay */
+#define TAPPING_TERM 250
+
 /*
  * Keyboard Matrix Assignments
  *
